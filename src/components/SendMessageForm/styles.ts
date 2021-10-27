@@ -7,7 +7,7 @@ export const styles = StyleSheet.create({
     width: '100%',
     height: 184,
     backgroundColor: COLORS.BLACK_TERTIARY,
-    marginBottom: getBottomSpace() + 10,
+    paddingBottom: getBottomSpace() + 24,
     paddingTop: 16,
     paddingHorizontal: 24,
   },
