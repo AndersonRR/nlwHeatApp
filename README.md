@@ -1,6 +1,6 @@
 # Nlw Heat - React Native App
 
-* Aplicativo React Native desenvolvido durante a NLH Heat - 2021.
+* Aplicativo React Native desenvolvido durante a NLW Heat - 2021 da Rocketseat.
 * No aplicativo é possível acompanhar mensagens em tempo real. Para enviar mensagens é necessário logar com uma conta do GitHub.
 
 ## Configurando a aplicativo
